@@ -1,5 +1,5 @@
 # svntogit
-Simple batchscript to share code between the two VCS systems.
+Simple batchscript to commit code into two VCS systems.
 
 ## Description
 Simple script to automate commits to multiple VCS. Use the script if you are to commit files into SVN and GIT simultaneously. 
